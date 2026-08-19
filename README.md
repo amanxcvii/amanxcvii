@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fullstack Developer</h1>
 <h3 align="center">Deeply passionate about creating flawless software solutions as a Full Stack Developer. With a knack for optimizing code and queries, ensuring applications run smoothly. I thrive on problem-solving and logic building, not just in code but also in tackling real-life</h3>
 
-- 🔭 I’m currently working on **Web Application**
+- 🔭 I’m currently working on **Note taking Web Application**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/amanmalik97/](https://www.linkedin.com/in/amanmalik97/)
 
