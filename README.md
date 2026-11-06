@@ -1,25 +1,105 @@
-<h1 align="center">Hi 👋, I'm Fullstack Developer</h1>
-<h3 align="center">Deeply passionate about creating flawless software solutions as a Full Stack Developer. With a knack for optimizing code and queries, ensuring applications run smoothly. I thrive on problem-solving and logic building, not just in code but also in tackling real-life</h3>
+ <h1 align="center">Hi 👋, I'm Aman Malik</h1>
 
-- 🔭 I’m currently working on **Note taking Web Application**
+<h3 align="center">Software Developer | Java & Spring Boot | Microservices | Kafka | AWS</h3>
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/amanmalik97/](https://www.linkedin.com/in/amanmalik97/)
-
-- 💬 Ask me about **Java, Spring Boot, Postgres, AWS**
-
-- 📫 How to reach me **amanmalik97@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amanmalik97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanmalik97" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/amanxcvii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amanxcvii" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amanxcvii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amanxcvii" height="30" width="40" /></a>
+<p align="center">
+  Building scalable backend systems, designing reliable APIs, and optimizing application performance.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanxcvii&show_icons=true&locale=en&layout=compact" alt="amanxcvii" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanxcvii&show_icons=true&locale=en" alt="amanxcvii" /></p>
+- 💼 Software Developer with **5 years of IT experience**, including **3 years focused on Java development**.
+- 🚀 Experienced in building backend applications using **Java, Spring Boot, Microservices, and REST APIs**.
+- ⚡ Interested in distributed systems, event-driven architecture, and performance optimization.
+- ☁️ Working with AWS services including **ECS, Lambda, SQS, SNS, and CloudWatch**.
+- 🗄️ Experienced with relational and NoSQL databases, including PostgreSQL and MongoDB.
+- 🔭 Currently building **ZapNotes** – a note-taking application with real-time synchronization using Kafka.
+- 🧠 Continuously exploring system design, data structures, cloud architecture, and AI engineering.
+- 📝 Connect with me on [LinkedIn](https://www.linkedin.com/in/amanmalik97/).
 
+### 💬 Ask Me About
+
+`Java` `Spring Boot` `Kafka` `Microservices` `PostgreSQL` `MongoDB` `AWS` `REST APIs` `System Design`
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/amanmalik97" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/amanxcvii" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
+  </a>
+  <a href="https://www.leetcode.com/amanxcvii" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+  </a>
+</p>
+
+📧 **Email:** [amanmalik97@outlook.com](mailto:amanmalik97@outlook.com)
+
+---
+
+### 🛠️ Languages and Technologies
+
+**Backend Development**
+
+<p align="left">
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/></a>
+  <a href="https://kafka.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/></a>
+</p>
+
+**Databases & Messaging**
+
+<p align="left">
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/></a>
+  <a href="https://kafka.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Apache Kafka"/></a>
+</p>
+
+**Cloud, DevOps & Tools**
+
+<p align="left">
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/></a>
+</p>
+
+**Frontend Development**
+
+<p align="left">
+  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/></a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/></a>
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanxcvii&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages"/>
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanxcvii&show_icons=true&locale=en&theme=github_dark" alt="GitHub Statistics"/>
+</p>
+
+<p>
+  <img align="center" src="https://streak-stats.demolab.com?user=amanxcvii&theme=github-dark-blue" alt="GitHub Streak"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Engineering reliable software, one commit at a time.</i>
+</p>
